@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gowthaman S</h1>
-<h3 align="center">Aspiring Data Scientist | AI & Machine Learning Enthusiast | Final-Year B.Tech Student</h3>
+<h3 align="center">GenAI Engineer | LLM Systems & RAG | Agentic AI | Research Author</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gowthaman-s&label=Profile%20views&color=0e75b6&style=flat" alt="gowthaman-s" />
@@ -7,65 +7,96 @@
 
 ---
 
-🎓 Final-year B.Tech student in **Artificial Intelligence and Data Science** at **Ramco Institute of Technology**  
-💡 Passionate about building intelligent systems and solving real-world problems using AI/ML  
-🔍 Interested in **Data Science**, **Computer Vision**, **NLP**, and **Data Analytics**
+🚀 Final-year **AI & Data Science student (B.Tech, 2026)**  
+💡 1+ year experience in **production-grade Generative AI systems**  
+🏢 Built **multi-tenant Agentic RAG systems** for enterprise clients  
+📄 First-author of **LLM reliability research paper (Springer - under review)**  
 
 ---
 
 ### 🛠️ Technical Skills
 
-- **Languages**: Python, SQL, Java  
-- **Libraries/Tools**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Power BI  
-- **Frameworks**: Flask, FastAPI, Streamlit  
-- **Concepts**: EDA, Machine Learning, Deep Learning, NLP, Time-Series Forecasting, Predictive Modeling  
-- **Tools**: VS Code, Jupyter Notebook, Git, PostgreSQL  
+- **Languages**: Python (Expert), SQL, HTML/CSS  
+- **GenAI & LLMs**: RAG, LangGraph, LangChain, vLLM, Agentic AI, Prompt Engineering, HuggingFace, Ollama, Gemini API, BGE-M3  
+- **ML/DL**: PyTorch, TensorFlow, Scikit-learn, Transformers, NLP, YOLOv5, OpenCV  
+- **Databases**: Qdrant, ChromaDB, PostgreSQL, SQLite  
+- **Frameworks**: FastAPI, Flask, Streamlit, Pydantic, SentenceTransformers, React (basic)  
+- **DevOps & Cloud**: Docker, Docker Compose, Git, GitHub, AWS EC2 & S3, CI/CD  
+- **Data & BI**: Pandas, NumPy, Power BI, Matplotlib  
+- **Concepts**: Agentic Workflows, Hybrid Retrieval, Hallucination Detection, LLM Observability, MLOps, AI Safety, Risk Scoring  
+
+---
+
+### 💼 Experience
+
+**🧠 AI/ML Engineer Intern — Generative AI**  
+**Annz Technologies | Chennai** *(Aug 2025 – Present)*  
+
+- Built **production-grade multi-tenant Agentic RAG chatbot** (LangGraph, Qdrant, vLLM) serving 5+ enterprise clients  
+- Designed **hybrid dense + sparse retrieval** with multilingual support  
+- Developed **end-to-end AI pipelines** (ingestion → embeddings → structured outputs)  
+- Created **LLM-based vulnerability remediation system**, reducing manual effort by ~40%  
+
+**📊 AI & Data Analytics Intern**  
+**The Ramco Cements Limited | Alathiyur** *(Jun 2024 – Sep 2024)*  
+
+- Analyzed **5 years of energy data** and built Power BI dashboards  
+- Developed **YOLOv5-based fire & smoke detection system** integrated with live feeds  
 
 ---
 
 ### 🚀 Projects
 
-- **🤖 AskQL using Gemini API**: Real-time natural language query generation using Google Gemini API  
-- **🔥 Fire & Smoke Detection (YOLOv5)**: Real-time camera-based fire/smoke detection for industrial safety  
-- **👷 PPE Detection**: Helmet and vest detection using deep learning (CNN) for workplace compliance  
-- **📊 Energy Consumption Dashboard**: Power BI dashboard analyzing 5 years of cement plant energy usage  
-- **🛍️ Mall Customer Segmentation**: Behavior-based customer clustering using K-Means  
+- **🏢 Enterprise Multi-Tenant Agentic RAG Chatbot**  
+  Hybrid retrieval system with Qdrant namespaces, multilingual embeddings, and vLLM inference  
+
+- **🛡️ AI-Powered Vulnerability Analysis & Remediation**  
+  Automated CVE classification and remediation generation using local LLMs  
+
+- **🤖 AskQL — NL to SQL Generator**  
+  Converts natural language into optimized SQL using Gemini API  
+
+- **📚 AI Knowledge Continuity System (RAG)**  
+  Document intelligence system with low-hallucination retrieval  
 
 ---
 
-### 💼 Internships
+### 📄 Research
 
-- **The Ramco Cements Limited, Alathiyur** *(Jun 2024 – Sep 2024)*  
-- **Prodigy Infotech (Virtual)** *(Jan 2024 – Feb 2024)*  
-- **CodSoft (Virtual)** *(Nov 2023 – Dec 2023)*  
+**FARIS: Failure Analysis & Risk Intelligence System for LLMs**  
+📌 *SN Computer Science (Springer) — Under Review*  
+
+- 92% anomaly detection accuracy across domains  
+- 90% reduction in inference calls via optimized architecture  
+- Built using LangGraph, FastAPI, ChromaDB, Transformers  
+
+---
+
+### 🎓 Education
+
+🎓 **B.Tech – Artificial Intelligence & Data Science**  
+**Ramco Institute of Technology** *(2022 – 2026)*  
+📊 CGPA: 8.2 / 10  
+
+🎓 **MSR Matriculation Hr Sec School**  
+SSLC: 97% | HSC: 87%  
 
 ---
 
 ### 🏅 Certifications
 
-- **Microsoft Power BI Associate** – Mar 2024  
-- **Python for Machine Learning** – Udemy, May 2024  
-- **Artificial Intelligence with Python** – Great Learning, Dec 2023  
-- **Cisco Certified in**:  
-  - Python Essentials  
-  - Data Analytics Essentials  
-  - Introduction to Data Science  
-
----
-
-### 🧠 Additional Info
-
-- 📚 Languages: Tamil, English  
-- 🏆 Zonal-level Volleyball Player | School Sports Team Captain  
-- 🎨 Hobbyist Pencil Artist | Volleyball & Basketball Enthusiast  
+- Python Essentials — Cisco  
+- Python for Machine Learning — Udemy  
+- Artificial Intelligence with Python — Great Learning  
+- Data Analytics — Cisco  
+- Microsoft Power BI Associate — ICT Academy  
 
 ---
 
 ### 📫 Connect with Me
 
 - 📧 Email: [gowtham3172004@gmail.com](mailto:gowtham3172004@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gowthaman-s-6a988a253)  
-- 🐙 GitHub: [gowthaman-s](https://github.com/gowthaman-s) *(Update username if needed)*
+- 🔗 LinkedIn: https://linkedin.com/in/gowthaman-s  
+- 🐙 GitHub: https://github.com/gowthaman-s  
 
 ---
-
